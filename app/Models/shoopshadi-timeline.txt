@@ -1,0 +1,52 @@
+Change 1 : 
+    - (i) 1 day
+    - (ii) 1 day
+    - (iii) 1 day
+
+Change 2 : 
+    - (i) 1 day
+
+Change 3 :
+    - (i,ii,iii,iv) 1 day 
+
+Change 4 :
+    - (i) 1 day
+    - (ii,iii,iv) 1 day
+
+Change 5 :
+    - (i) 1 day
+
+Change 6 :
+    - (i) 1 day
+    - (ii) 1 day
+    - (iii) 1 day
+
+Change 7 :
+    - (i) 2 day
+
+Change 8 :
+    - (i) 1 day
+
+Change 9 :
+    - (i,ii,iii)   2 day 
+
+Change 10 :
+    - (i,ii,iii) 1 day
+
+Change 11 :
+    - (i) 1 day
+
+Change 12 :
+    - (i) 2 Hours
+
+
+SEO ON PAGE
+
+1,4 : (1 day)
+5,6 : 2 days
+7,8 : 1 day
+
+
+QC/QA - 1 day
+Deploy - 1 day
+
